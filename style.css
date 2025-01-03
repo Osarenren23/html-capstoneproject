@@ -1,0 +1,52 @@
+
+
+.gradient-background {
+    background: linear-gradient(to bottom, #ccccff 0%, #ff99cc 100%);
+    background-size: 100%;
+}
+.yes-girl {
+    background:  #ccccff;
+}
+.yesssss {
+    background:  #ecb4d0;
+}
+.profile-img {
+    border-radius: 50%;
+    height: 200px;
+    width: 200px;
+}
+
+.Text-fire {
+    font-weight: bold;
+    padding-top: 50px;
+    padding-bottom: 30px;
+}
+.Text-p {
+    font-weight: bold;
+}
+
+.babysis {
+    border-radius: 20%;
+    height: 200px;
+}
+
+.chessplay {
+    border-radius: 20%;
+    height: 200px;
+    
+}
+.biuexcelence {
+    border-radius: 20%;
+    height: 200px;
+}
+.lead-me {
+    font-weight: bold;
+}
+
+.sponge {
+    border-radius: 20%;
+    height: 200px;
+}
+.footer-my {
+    background: linear-gradient(to bottom, #ccccff 0%, #ff99cc 100%);
+}
